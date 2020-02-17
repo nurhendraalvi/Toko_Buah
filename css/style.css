@@ -1,0 +1,29 @@
+html {
+	position: relative;
+
+}
+
+body {
+	margin-bottom: 100px;
+	margin-top: 10px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.jumbotron img{	
+	width: 1300px;
+}
+
+hr{
+	width: 250px;
+	border-top: 2px solid #999;
+}
+
+
+
+
+section {
+	min-height: 500px;
+}
